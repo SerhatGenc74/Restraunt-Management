@@ -1,0 +1,9 @@
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/Restraunt-Management.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/edit_cache.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/list_install_components.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/local.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/install/strip.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/Restraunt-Management_autogen_timestamp_deps.dir
+/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/Restraunt-Management_autogen.dir
