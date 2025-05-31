@@ -485,7 +485,33 @@
 	"CROSS_CONFIG" : false,
 	"DEP_FILE" : "/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "Restraunt-Management_autogen/timestamp",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/home/serhat/Restraunt-Management/connection.h",
+			"MU",
+			"EWIEGA46WW/moc_connection.cpp",
+			null
+		],
+		[
+			"/home/serhat/Restraunt-Management/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/serhat/Restraunt-Management/meal.h",
+			"MU",
+			"EWIEGA46WW/moc_meal.cpp",
+			null
+		],
+		[
+			"/home/serhat/Restraunt-Management/portion.h",
+			"MU",
+			"EWIEGA46WW/moc_portion.cpp",
+			null
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/mocs_compilation.cpp",
@@ -544,7 +570,14 @@
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 8,
 	"SETTINGS_FILE" : "/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/CMakeFiles/Restraunt-Management_autogen.dir/AutogenUsed.txt",
-	"SOURCES" : [],
+	"SOURCES" : 
+	[
+		[ "/home/serhat/Restraunt-Management/connection.cpp", "MU", null ],
+		[ "/home/serhat/Restraunt-Management/main.cpp", "MU", null ],
+		[ "/home/serhat/Restraunt-Management/mainwindow.cpp", "MU", null ],
+		[ "/home/serhat/Restraunt-Management/meal.cpp", "MU", null ],
+		[ "/home/serhat/Restraunt-Management/portion.cpp", "MU", null ]
+	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : [],

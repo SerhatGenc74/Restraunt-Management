@@ -471,6 +471,8 @@ Restraunt-Management_autogen/timestamp: \
 	/home/serhat/Restraunt-Management/main.cpp \
 	/home/serhat/Restraunt-Management/mainwindow.cpp \
 	/home/serhat/Restraunt-Management/mainwindow.h \
+	/home/serhat/Restraunt-Management/meal.cpp \
+	/home/serhat/Restraunt-Management/meal.h \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \

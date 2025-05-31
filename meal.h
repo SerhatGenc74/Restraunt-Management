@@ -7,17 +7,17 @@ class Meal
 
 public:
     Meal();
-    Meal(int& m_MealID,int& m_CategoryID,QString& m_Mealname,QString& m_FotoURL);
+    Meal(int& MealID,int& CategoryID,QString& Mealname,QString& FotoURL);
 
     int getMealID() const;
     int getCategoryID() const;
     QString getMealName() const;
     QString getFotoURl() const;
 
-    void setMealID(int& m_MealID);
-    void setCategoryID(int& m_CategoryID);
-    void setMealName(QString& m_Mealname);
-    void setFotoURL(QString& m_FotoURL);
+    void setMealID(int& MealID);
+    void setCategoryID(int& CategoryID);
+    void setMealName(QString& Mealname);
+    void setFotoURL(QString& FotoURL);
 
 private:
 

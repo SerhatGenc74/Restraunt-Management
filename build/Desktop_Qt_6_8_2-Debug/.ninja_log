@@ -1,10 +1,11 @@
 # ninja log v6
-13	450	1748368440303886293	Restraunt-Management_autogen/timestamp	975142ab579aa84d
-13	450	1748368440303886293	Restraunt-Management_autogen/mocs_compilation.cpp	975142ab579aa84d
-13	450	1748368440303886293	/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/timestamp	975142ab579aa84d
-2276	2612	1748368442135880092	Restraunt-Management	b3f15fa22387cb95
-13	450	1748368440303886293	/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/mocs_compilation.cpp	975142ab579aa84d
+5	41	1748538120562176948	Restraunt-Management_autogen/timestamp	975142ab579aa84d
+5	41	1748538120562176948	Restraunt-Management_autogen/mocs_compilation.cpp	975142ab579aa84d
+5	41	1748538120562176948	/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/timestamp	975142ab579aa84d
+931	1102	1748538121488167708	Restraunt-Management	2ec88f1a59c0ae0d
+5	41	1748538120562176948	/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/mocs_compilation.cpp	975142ab579aa84d
 187	986	1748275963598690412	CMakeFiles/Restraunt-Management.dir/connection.cpp.o	4e24b91bc36e435f
-451	2253	1748368440310886269	CMakeFiles/Restraunt-Management.dir/mainwindow.cpp.o	85fe80f5640dc372
+41	931	1748538120598176589	CMakeFiles/Restraunt-Management.dir/mainwindow.cpp.o	85fe80f5640dc372
 450	2276	1748368440309886272	CMakeFiles/Restraunt-Management.dir/Restraunt-Management_autogen/mocs_compilation.cpp.o	7a137c86b0eca0bf
 451	2225	1748368440310886269	CMakeFiles/Restraunt-Management.dir/main.cpp.o	a7d0fcc903296656
+42	535	1748538120599176579	CMakeFiles/Restraunt-Management.dir/meal.cpp.o	af6e66741e585fe5
