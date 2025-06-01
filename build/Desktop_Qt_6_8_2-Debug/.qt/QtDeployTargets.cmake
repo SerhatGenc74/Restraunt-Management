@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_Restraunt-Management_FILE /home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management)
-set(__QT_DEPLOY_TARGET_Restraunt-Management_TYPE EXECUTABLE)
