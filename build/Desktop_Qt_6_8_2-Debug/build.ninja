@@ -97,6 +97,22 @@ build CMakeFiles/Restraunt-Management.dir/portion.cpp.o: CXX_COMPILER__Restraunt
   OBJECT_DIR = CMakeFiles/Restraunt-Management.dir
   OBJECT_FILE_DIR = CMakeFiles/Restraunt-Management.dir
 
+build CMakeFiles/Restraunt-Management.dir/mealprice.cpp.o: CXX_COMPILER__Restraunt-Management_unscanned_Debug /home/serhat/Restraunt-Management/mealprice.cpp || cmake_object_order_depends_target_Restraunt-Management
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Restraunt-Management.dir/mealprice.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/include -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtCore -isystem /home/serhat/Qt/6.8.2/gcc_64/include -isystem /home/serhat/Qt/6.8.2/gcc_64/mkspecs/linux-g++ -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtWidgets -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtGui -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtSql
+  OBJECT_DIR = CMakeFiles/Restraunt-Management.dir
+  OBJECT_FILE_DIR = CMakeFiles/Restraunt-Management.dir
+
+build CMakeFiles/Restraunt-Management.dir/repository.cpp.o: CXX_COMPILER__Restraunt-Management_unscanned_Debug /home/serhat/Restraunt-Management/repository.cpp || cmake_object_order_depends_target_Restraunt-Management
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Restraunt-Management.dir/repository.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always -fPIC
+  INCLUDES = -I/home/serhat/Restraunt-Management/build/Desktop_Qt_6_8_2-Debug/Restraunt-Management_autogen/include -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtCore -isystem /home/serhat/Qt/6.8.2/gcc_64/include -isystem /home/serhat/Qt/6.8.2/gcc_64/mkspecs/linux-g++ -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtWidgets -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtGui -isystem /home/serhat/Qt/6.8.2/gcc_64/include/QtSql
+  OBJECT_DIR = CMakeFiles/Restraunt-Management.dir
+  OBJECT_FILE_DIR = CMakeFiles/Restraunt-Management.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Restraunt-Management
@@ -105,7 +121,7 @@ build CMakeFiles/Restraunt-Management.dir/portion.cpp.o: CXX_COMPILER__Restraunt
 #############################################
 # Link the executable Restraunt-Management
 
-build Restraunt-Management: CXX_EXECUTABLE_LINKER__Restraunt-Management_Debug CMakeFiles/Restraunt-Management.dir/Restraunt-Management_autogen/mocs_compilation.cpp.o CMakeFiles/Restraunt-Management.dir/main.cpp.o CMakeFiles/Restraunt-Management.dir/mainwindow.cpp.o CMakeFiles/Restraunt-Management.dir/connection.cpp.o CMakeFiles/Restraunt-Management.dir/meal.cpp.o CMakeFiles/Restraunt-Management.dir/portion.cpp.o | /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Widgets.so.6.8.2 /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Sql.so.6.8.2 /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Gui.so.6.8.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Core.so.6.8.2 || Restraunt-Management_autogen Restraunt-Management_autogen_timestamp_deps
+build Restraunt-Management: CXX_EXECUTABLE_LINKER__Restraunt-Management_Debug CMakeFiles/Restraunt-Management.dir/Restraunt-Management_autogen/mocs_compilation.cpp.o CMakeFiles/Restraunt-Management.dir/main.cpp.o CMakeFiles/Restraunt-Management.dir/mainwindow.cpp.o CMakeFiles/Restraunt-Management.dir/connection.cpp.o CMakeFiles/Restraunt-Management.dir/meal.cpp.o CMakeFiles/Restraunt-Management.dir/portion.cpp.o CMakeFiles/Restraunt-Management.dir/mealprice.cpp.o CMakeFiles/Restraunt-Management.dir/repository.cpp.o | /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Widgets.so.6.8.2 /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Sql.so.6.8.2 /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Gui.so.6.8.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Core.so.6.8.2 || Restraunt-Management_autogen Restraunt-Management_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -Wl,-rpath,/home/serhat/Qt/6.8.2/gcc_64/lib:  /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Widgets.so.6.8.2  /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Sql.so.6.8.2  /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Gui.so.6.8.2  /usr/lib/x86_64-linux-gnu/libGLX.so  /usr/lib/x86_64-linux-gnu/libOpenGL.so  /home/serhat/Qt/6.8.2/gcc_64/lib/libQt6Core.so.6.8.2  -Wl,-rpath-link,/home/serhat/Qt/6.8.2/gcc_64/lib
   OBJECT_DIR = CMakeFiles/Restraunt-Management.dir

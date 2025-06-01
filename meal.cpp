@@ -1,48 +1,48 @@
 #include "meal.h"
 
-Meal::Meal() : m_CategoryID(0),m_MealID(0),m_Mealname(""),m_FotoURL("") {}
+Meal::Meal() : m_categoryID(0),m_mealID(0),m_mealName(""),m_fotoURL("") {}
 
 Meal::Meal(int& MealID,int& CategoryID,QString& Mealname,QString& FotoURL)
 {
-    this->m_Mealname =  Mealname;
-    this->m_MealID = MealID;
-    this->m_CategoryID = CategoryID;
-    this->m_FotoURL = FotoURL;
+    this->m_mealName =  Mealname;
+    this->m_mealID = MealID;
+    this->m_categoryID = CategoryID;
+    this->m_fotoURL = FotoURL;
 }
 
 int Meal::getCategoryID() const
 {
-    return this->m_CategoryID;
+    return this->m_categoryID;
 }
 void Meal::setCategoryID(int& CategoryID)
 {
-    this->m_CategoryID = CategoryID;
+    this->m_categoryID = CategoryID;
 }
 
 int Meal::getMealID() const
 {
-    return this->m_MealID;
+    return this->m_mealID;
 }
 void Meal::setMealID(int& MealID)
 {
-    this->m_MealID = MealID;
+    this->m_mealID = MealID;
 }
 
 QString Meal::getMealName() const
 {
-    return this->m_Mealname;
+    return this->m_mealName;
 }
 void Meal::setMealName(QString& Mealname)
 {
-    this->m_Mealname = Mealname;
+    this->m_mealName = Mealname;
 }
 
 QString Meal::getFotoURl() const
 {
-    return this->m_FotoURL;
+    return this->m_fotoURL;
 }
 void Meal::setFotoURL(QString& FotoURL)
 {
-    this->m_FotoURL = FotoURL;
+    this->m_fotoURL = FotoURL;
 }
 

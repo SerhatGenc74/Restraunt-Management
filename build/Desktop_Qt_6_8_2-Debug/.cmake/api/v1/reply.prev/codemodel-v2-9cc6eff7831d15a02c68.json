@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-a539027ed92ffe149932.json",
+					"jsonFile" : "directory-.-Debug-bdcfdf43756fb3213d9c.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Restraunt-Management::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Restraunt-Management-Debug-dcf4481b76f8fdde6313.json",
+					"jsonFile" : "target-Restraunt-Management-Debug-61b94cf167eacc363bcb.json",
 					"name" : "Restraunt-Management",
 					"projectIndex" : 0
 				},

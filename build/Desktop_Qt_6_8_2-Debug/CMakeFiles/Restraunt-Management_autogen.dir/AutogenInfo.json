@@ -506,9 +506,21 @@
 			null
 		],
 		[
+			"/home/serhat/Restraunt-Management/mealprice.h",
+			"MU",
+			"EWIEGA46WW/moc_mealprice.cpp",
+			null
+		],
+		[
 			"/home/serhat/Restraunt-Management/portion.h",
 			"MU",
 			"EWIEGA46WW/moc_portion.cpp",
+			null
+		],
+		[
+			"/home/serhat/Restraunt-Management/repository.h",
+			"MU",
+			"EWIEGA46WW/moc_repository.cpp",
 			null
 		]
 	],
@@ -576,7 +588,9 @@
 		[ "/home/serhat/Restraunt-Management/main.cpp", "MU", null ],
 		[ "/home/serhat/Restraunt-Management/mainwindow.cpp", "MU", null ],
 		[ "/home/serhat/Restraunt-Management/meal.cpp", "MU", null ],
-		[ "/home/serhat/Restraunt-Management/portion.cpp", "MU", null ]
+		[ "/home/serhat/Restraunt-Management/mealprice.cpp", "MU", null ],
+		[ "/home/serhat/Restraunt-Management/portion.cpp", "MU", null ],
+		[ "/home/serhat/Restraunt-Management/repository.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

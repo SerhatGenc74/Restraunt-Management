@@ -28,6 +28,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
 
         meal.h meal.cpp
         portion.h portion.cpp
+        mealprice.h mealprice.cpp
+        repository.h repository.cpp
 
 
     )

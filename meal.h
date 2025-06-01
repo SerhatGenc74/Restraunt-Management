@@ -21,10 +21,10 @@ public:
 
 private:
 
-    int m_MealID;
-    int m_CategoryID;
-    QString m_Mealname;
-    QString m_FotoURL;
+    int m_mealID;
+    int m_categoryID;
+    QString m_mealName;
+    QString m_fotoURL;
 
 
     virtual ~Meal() = default;

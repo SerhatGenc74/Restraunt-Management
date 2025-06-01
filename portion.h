@@ -19,9 +19,9 @@ public:
 
 
 private:
-    int m_PortionID;
-    QString m_Portion_name;
-    double m_Multiplier;
+    int m_portionID;
+    QString m_portionName;
+    double m_multiplier;
 };
 
 #endif // PORTION_H
